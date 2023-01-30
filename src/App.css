@@ -1,0 +1,14 @@
+.bg{
+    background-image: url(../public/undraw_pair_programming_re_or4x.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 90vh;
+}
+
+
+.notFound {
+    background-image: url(../public//404.svg);
+    background-repeat: no-repeat;
+    background-position: 50%;
+    height: 80vh;
+}
